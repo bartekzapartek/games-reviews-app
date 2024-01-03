@@ -1,0 +1,183 @@
+[
+    {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "developer": "Nintendo",
+        "release_date": "2017-03-03",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "developer": "Rockstar Games",
+        "release_date": "2018-10-26",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "developer": "CD Projekt",
+        "release_date": "2015-05-18",
+        "genre": "Action RPG"
+    },
+    {
+        "title": "God of War",
+        "developer": "Santa Monica Studio",
+        "release_date": "2018-04-20",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "Grand Theft Auto V",
+        "developer": "Rockstar North",
+        "release_date": "2013-09-17",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "Dark Souls III",
+        "developer": "FromSoftware",
+        "release_date": "2016-03-24",
+        "genre": "Action RPG"
+    },
+    {
+        "title": "Minecraft",
+        "developer": "Mojang",
+        "release_date": "2011-11-18",
+        "genre": "Sandbox"
+    },
+    {
+        "title": "Fortnite",
+        "developer": "Epic Games",
+        "release_date": "2017-07-25",
+        "genre": "Battle Royale"
+    },
+    {
+        "title": "Overwatch",
+        "developer": "Blizzard Entertainment",
+        "release_date": "2016-05-24",
+        "genre": "First-person shooter"
+    },
+    {
+        "title": "League of Legends",
+        "developer": "Riot Games",
+        "release_date": "2009-10-27",
+        "genre": "MOBA"
+    },
+    {
+        "title": "Among Us",
+        "developer": "InnerSloth",
+        "release_date": "2018-06-15",
+        "genre": "Party"
+    },
+    {
+        "title": "Apex Legends",
+        "developer": "Respawn Entertainment",
+        "release_date": "2019-02-04",
+        "genre": "Battle Royale"
+    },
+    {
+        "title": "The Elder Scrolls V: Skyrim",
+        "developer": "Bethesda Game Studios",
+        "release_date": "2011-11-11",
+        "genre": "Action RPG"
+    },
+    {
+        "title": "Doom Eternal",
+        "developer": "id Software",
+        "release_date": "2020-03-20",
+        "genre": "First-person shooter"
+    },
+    {
+        "title": "Animal Crossing: New Horizons",
+        "developer": "Nintendo",
+        "release_date": "2020-03-20",
+        "genre": "Simulation"
+    },
+    {
+        "title": "Super Mario Odyssey",
+        "developer": "Nintendo",
+        "release_date": "2017-10-27",
+        "genre": "Platform"
+    },
+    {
+        "title": "Halo Infinite",
+        "developer": "343 Industries",
+        "release_date": "2021-12-08",
+        "genre": "First-person shooter"
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "developer": "CD Projekt Red",
+        "release_date": "2020-12-10",
+        "genre": "Action RPG"
+    },
+    {
+        "title": "Genshin Impact",
+        "developer": "miHoYo",
+        "release_date": "2020-09-28",
+        "genre": "Action RPG"
+    },
+    {
+        "title": "Destiny 2",
+        "developer": "Bungie",
+        "release_date": "2017-09-06",
+        "genre": "First-person shooter"
+    },
+    {
+        "title": "Assassin's Creed Odyssey",
+        "developer": "Ubisoft Quebec",
+        "release_date": "2018-10-05",
+        "genre": "Action RPG"
+    },
+    {
+        "title": "Ghost of Tsushima",
+        "developer": "Sucker Punch Productions",
+        "release_date": "2020-07-17",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "Fall Guys: Ultimate Knockout",
+        "developer": "Mediatonic",
+        "release_date": "2020-08-04",
+        "genre": "Battle Royale"
+    },
+    {
+        "title": "Valorant",
+        "developer": "Riot Games",
+        "release_date": "2020-06-02",
+        "genre": "First-person shooter"
+    },
+    {
+        "title": "Call of Duty: Warzone",
+        "developer": "Infinity Ward",
+        "release_date": "2020-03-10",
+        "genre": "Battle Royale"
+    },
+    {
+        "title": "Resident Evil Village",
+        "developer": "Capcom",
+        "release_date": "2021-05-07",
+        "genre": "Survival horror"
+    },
+    {
+        "title": "Sekiro: Shadows Die Twice",
+        "developer": "FromSoftware",
+        "release_date": "2019-03-22",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "Spider-Man: Miles Morales",
+        "developer": "Insomniac Games",
+        "release_date": "2020-11-12",
+        "genre": "Action-adventure"
+    },
+    {
+        "title": "Hitman 3",
+        "developer": "IO Interactive",
+        "release_date": "2021-01-20",
+        "genre": "Stealth"
+    },
+    {
+        "title": "Death Stranding",
+        "developer": "Kojima Productions",
+        "release_date": "2019-11-08",
+        "genre": "Action"
+    }
+
+]

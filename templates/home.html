@@ -1,0 +1,25 @@
+{% extends "index.html" %}
+
+{% block static %}
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='home.css')}}">
+
+{% endblock %}
+
+{% block content %}
+
+    <div id="home-content">
+
+        {% for game in games %}
+
+            <a href="">
+
+                {{ game }}
+
+            </a>
+
+        {% endfor %}
+
+    </div>
+
+{% endblock %}

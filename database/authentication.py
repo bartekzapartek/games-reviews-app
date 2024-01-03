@@ -23,10 +23,10 @@ def get_user(username, email = ''):
 
     cursor.execute(f"""
 
-        SELECT username, password_hash FROM Users WHERE username = "{username} OR email = {email}";           
+        SELECT username, password_hash FROM Users WHERE username = "{username}" OR email = "{email}";           
 
     """)
 
-    user = list(cursor.fetchall())
+    user = cursor.fetchall()
     database.close()
     return user if len(user) != 0 else None
